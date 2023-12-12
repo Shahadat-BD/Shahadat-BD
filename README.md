@@ -22,7 +22,7 @@
 ## Project Details 
 ### Pet Adoption Management application 
 ### [ Click the Project live site Link](https://pet-adoption-auth-1c311.web.app/)
-### Project period : Dec 2023 - Present
+### Project period : Dec 2023 -  Dec-23
 * This is a user and admin role based website. It's mainly built around two things. One is to create
 a post for your pet adoption so that the user can request his pet for adoption.
 * The second thing is that a user can create a donation campaign for his pet so that a user can
