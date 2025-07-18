@@ -7,7 +7,7 @@
  Resume Here :  [**MyResume**](https://drive.google.com/file/d/1UEsuZdLKqQVek_10X_YZ-ea0VsFoZFbE/view?usp=sharing)  </br>
 
 ## Below is a brief description of my work through with bullet points
-- 🔭 I’m currently working on **Pet Adoption web application**
+- 🔭 I’m currently working on **Islamic-studies web app**
 - 🌱 I’m currently learning **Next.JS**
 - 👨‍💻 Currently I am working on these technologies React.JS, Firebase for handiling authentication system, Node.JS, Express.jS, and MongoDB(For handling database mangement)
 - 👨‍💻 Successfully completed three recent projects using MERN stack. First one is simple CRUD online **store management** Website. second is **Library management website** and last one is **Pet adoption management** website. 
